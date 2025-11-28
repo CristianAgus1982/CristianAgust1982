@@ -1,28 +1,105 @@
-# CristianAgust1982
+# 👋 Hola, soy Cristian Agustín
 
+## 📊 Procurement Specialist transitioning to Data Analytics
+### Transformando 20 años de experiencia operativa en insights basados en datos
 
-<div style=; padding:10px; border-left:4px solid #339480; margin:10px 0; color:#2c3e50;">
-<strong>💡</strong>Bio Cristian </div>
+---
 
-Procurement Specialist & Data Analyst. With over 20 years of experience optimizing purchasing, contracts, and operations across sectors such as pharma, events, logistics, and promotional marketing. Passionate about efficiency, traceability, and cost analysis, I recently completed a Master’s in Data Analytics at Nuclio Digital, empowering me to turn complex data into strategic decisions. 
+### 🎯 Mi Propuesta de Valor
 
-I aim to apply my expertise in negotiation, planning, and budget control to the design of dashboards, predictive models, and process automation.
+Combino **dos décadas de experiencia** optimizando procesos de compras, contratos y operaciones con **nuevas capacidades analíticas** para transformar datos complejos en decisiones estratégicas.
 
-### 🎯 <span style="color:#259c92">Profesional and personal interests
+**Sectores de experiencia:**  
+Farmacéutico | Eventos | Logística | Marketing Promocional
 
-- Analytical Thinking
-- Programming / Technology
-- AI and Automation
-- Family
-- Live music
-- Travel 
-- Investment and Stock Exchange
+**Nuevo enfoque:**  
+Dashboards interactivos | Modelos predictivos | Automatización de procesos
 
+---
 
-### 📋 <span style="color:#259c92">Tools 
- - Python (pandas,matplotlib, seaborn)
- - SQL
- - Github
+### 🛠️ Stack Tecnológico
+
+#### Análisis de Datos
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+#### Bases de Datos & SQL
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+#### Visualización
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
+
+#### Herramientas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 💼 Áreas de Especialización
+
+**Experiencia Operativa (20+ años):**
+- Optimización de compras y negociación con proveedores
+- Gestión de contratos y control presupuestario
+- Análisis de costes y trazabilidad
+- Planificación estratégica de operaciones
+
+**Nuevas Capacidades Analíticas:**
+- Análisis Exploratorio de Datos (EDA)
+- Estadística aplicada y pensamiento probabilístico
+- Machine Learning básico
+- Automatización con Python
+
+---
+
+### 🎓 Formación
+
+**Máster en Data Analytics**  
+*Nuclio Digital School* | 2024  
+Especialización en: Python, SQL, Estadística, Machine Learning, Visualización de Datos
+
+---
+
+### 🚀 Proyectos Destacados
+
+🔜 *Actualmente documentando proyectos del máster:*
+- Análisis exploratorio con Python & Pandas
+- Dashboard de KPIs con Tableau
+- Modelos predictivos con Scikit-learn
+- Proyecto Final de Máster: [Título TFM]
+
+---
+
+### 🎯 Actualmente
+
+- 📊 Construyendo portfolio de proyectos de Data Analytics
+- 🔍 Buscando oportunidades donde combinar experiencia operativa + análisis de datos
+- 📚 Profundizando en automatización de procesos con Python
+- 💡 Explorando aplicaciones de ML en procurement y supply chain
+
+---
+
+### 📫 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristianAgus1982)
+
+---
+
+<div align="center">
+
+### 💡 *"Datos + Experiencia = Decisiones inteligentes"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=CristianAgus1982&color=blueviolet)
+
+</div>
  - Excel
  - Looker Studio
 ### Cómo contactarme 
