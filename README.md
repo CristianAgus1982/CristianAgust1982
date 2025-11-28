@@ -67,7 +67,7 @@ Análisis de datos | Dashboards interactivos | Modelos predictivos | Automatizac
 Especialización en: Python, SQL, Estadística, Machine Learning, Visualización de Datos
 
 **📈 Máster en Mercados Financieros y Bolsa**  
-*Instituto Europeo de Posgrado* | 2017
+*Instituto Europeo de Posgrado* | 2018  
 
 **🎓 Diploma en Estudios Empresariales**  
 *Universitat de Barcelona* | 2009
