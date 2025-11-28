@@ -1,6 +1,6 @@
-# 👋 Hola, soy Cristian Agustín
+# 👋 ¡Hola! Soy Cristian Agustín
 
-## 📊 Procurement Specialist transitioning to Data Analytics
+## 📊 Experto en Procurement | Analista de Datos
 ### Transformando 20 años de experiencia operativa en insights basados en datos
 
 ---
@@ -10,10 +10,10 @@
 Combino **dos décadas de experiencia** optimizando procesos de compras, contratos y operaciones con **nuevas capacidades analíticas** para transformar datos complejos en decisiones estratégicas.
 
 **Sectores de experiencia:**  
-Farmacéutico | Eventos | Logística | Marketing Promocional
+Farmacéutico | Eventos | Logística | Marketing Promocional | Tecnológico
 
 **Nuevo enfoque:**  
-Dashboards interactivos | Modelos predictivos | Automatización de procesos
+Análisis de datos | Dashboards interactivos | Modelos predictivos | Automatización de procesos
 
 ---
 
@@ -31,7 +31,7 @@ Dashboards interactivos | Modelos predictivos | Automatización de procesos
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 #### Visualización
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
 
@@ -49,30 +49,38 @@ Dashboards interactivos | Modelos predictivos | Automatización de procesos
 - Gestión de contratos y control presupuestario
 - Análisis de costes y trazabilidad
 - Planificación estratégica de operaciones
+- Product Management y desarrollo de producto
 
 **Nuevas Capacidades Analíticas:**
 - Análisis Exploratorio de Datos (EDA)
 - Estadística aplicada y pensamiento probabilístico
 - Machine Learning básico
 - Automatización con Python
+- Diseño de dashboards con Power BI
 
 ---
 
 ### 🎓 Formación
 
-**Máster en Data Analytics**  
-*Nuclio Digital School* | 2024  
+**🎓 Máster en Data Analytics**  
+*Nuclio Digital School* | Octubre 2025  
 Especialización en: Python, SQL, Estadística, Machine Learning, Visualización de Datos
+
+**📈 Máster en Mercados Financieros y Bolsa**  
+*Instituto Europeo de Posgrado* | 2017
+
+**🎓 Diploma en Estudios Empresariales**  
+*Universitat de Barcelona* | 2009
 
 ---
 
 ### 🚀 Proyectos Destacados
 
 🔜 *Actualmente documentando proyectos del máster:*
-- Análisis exploratorio con Python & Pandas
-- Dashboard de KPIs con Tableau
-- Modelos predictivos con Scikit-learn
-- Proyecto Final de Máster: [Título TFM]
+- 📊 Análisis exploratorio con Python & Pandas
+- 📈 Dashboard de KPIs con Power BI
+- 🤖 Modelos predictivos con Scikit-learn
+- 🎯 **Proyecto Final de Máster:** Análisis de Marketing Data-Driven en Fintech
 
 ---
 
@@ -87,7 +95,7 @@ Especialización en: Python, SQL, Estadística, Machine Learning, Visualización
 
 ### 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](cristian-ag)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-ag)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian.agustin.garcia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristianAgus1982)
 
@@ -95,14 +103,8 @@ Especialización en: Python, SQL, Estadística, Machine Learning, Visualización
 
 <div align="center">
 
-### 💡 *"Datos + Experiencia = Decisiones inteligentes"*
+### 💡 *"Experiencia + Datos = Decisiones inteligentes"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CristianAgus1982&color=blueviolet)
 
 </div>
- - Excel
- - Looker Studio
-### Cómo contactarme 
-💼 [LinkedIn](https://www.linkedin.com/in/cristian-ag/)
-📲 [Contáctame por WhatsApp](https://wa.me/34649163875)
-📧 cristian.agustin.garcia@gmail.com
