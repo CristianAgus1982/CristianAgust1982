@@ -1,47 +1,43 @@
-<div align="center">
+<<div align="center">
 
-# 👋 ¡Hola! Soy Cristian Agustín
+# 👋 Hi! I'm Cristian Agustín
 
 ### 📊 Procurement Specialist | Data Analyst
-*Transformando 20 años de experiencia operativa en insights basados en datos*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-ag/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian.agustin.garcia@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristianAgus1982)
+*Transforming 20 years of operational experience into data-driven insights*
 
 </div>
 
 ---
 
-## 🎯 Mi Propuesta de Valor
+## 🎯 My Value Proposition
 
-Combino **dos décadas de experiencia** optimizando procesos de compras, contratos y operaciones con **nuevas capacidades analíticas** para transformar datos complejos en decisiones estratégicas.
+I combine **two decades of experience** optimizing procurement processes, contracts, and operations with **new analytical capabilities** to transform complex data into strategic decisions.
 
-**Sectores de experiencia:** Farmacéutico • Eventos • Logística • Marketing Promocional • Tecnológico
+**Industry Experience:** Pharmaceutical • Events • Logistics • Promotional Marketing • Technology
 
-**Nuevo enfoque:** Análisis de datos • Dashboards interactivos • Modelos predictivos • Automatización de procesos
+**New Focus:** Data Analysis • Interactive Dashboards • Predictive Models • Process Automation
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-### Análisis de Datos
+### Data Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Bases de Datos & SQL
+### Databases & SQL
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Visualización
+### Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### Herramientas
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -49,28 +45,28 @@ Combino **dos décadas de experiencia** optimizando procesos de compras, contrat
 
 ---
 
-## 💼 Áreas de Especialización
+## 💼 Areas of Expertise
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏢 Experiencia Operativa (20+ años)
-- ✅ Optimización de compras y negociación
-- ✅ Gestión de contratos y presupuestos
-- ✅ Análisis de costes y trazabilidad
-- ✅ Planificación estratégica de operaciones
+### 🏢 Operational Experience (20+ years)
+- ✅ Procurement optimization & negotiation
+- ✅ Contract & budget management
+- ✅ Cost analysis & traceability
+- ✅ Strategic operations planning
 - ✅ Product Management
 
 </td>
 <td width="50%">
 
-### 📊 Capacidades Analíticas
-- 📈 Análisis Exploratorio de Datos (EDA)
-- 📊 Estadística aplicada
-- 🤖 Machine Learning básico
-- 🐍 Automatización con Python
-- 📊 Dashboards interactivos
+### 📊 Analytical Capabilities
+- 📈 Exploratory Data Analysis (EDA)
+- 📊 Applied statistics
+- 🤖 Basic Machine Learning
+- 🐍 Python automation
+- 📊 Interactive dashboards
 
 </td>
 </tr>
@@ -78,27 +74,27 @@ Combino **dos décadas de experiencia** optimizando procesos de compras, contrat
 
 ---
 
-## 🎓 Formación
+## 🎓 Education
 
-🎓 **Máster en Data Analytics** | *Nuclio Digital School* | Octubre 2025  
-Especialización en: Python, SQL, Estadística, Machine Learning, Visualización de Datos
+🎓 **Master's in Data Analytics** | *Nuclio Digital School* | October 2025  
+Specialization: Python, SQL, Statistics, Machine Learning, Data Visualization
 
-📈 **Máster en Mercados Financieros y Bolsa** | *Instituto Europeo de Posgrado* | 2018
+📈 **Master's in Financial Markets** | *Instituto Europeo de Posgrado* | 2018
 
-🎓 **Diploma en Estudios Empresariales** | *Universitat de Barcelona* | 2009
+🎓 **Diploma in Business Studies** | *Universitat de Barcelona* | 2009
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-> 🔜 Próximamente: Portfolio completo de proyectos del Máster en Data Analytics
+> 🔜 Coming soon: Complete portfolio from Master's in Data Analytics
 
-### 🎯 Proyecto Final de Máster
-**Análisis de Marketing Data-Driven en Fintech**
-- 📊 Análisis exploratorio con Python & Pandas
-- 📈 Dashboard interactivo con Power BI
-- 🤖 Modelos predictivos con Scikit-learn
-- 💡 Insights accionables para estrategia de marketing
+### 🎯 Master's Final Project
+**Data-Driven Marketing Analysis in Fintech**
+- 📊 Exploratory analysis with Python & Pandas
+- 📈 Interactive dashboard with Power BI
+- 🤖 Predictive models with Scikit-learn
+- 💡 Actionable insights for marketing strategy
 
 ---
 
@@ -114,22 +110,23 @@ Especialización en: Python, SQL, Estadística, Machine Learning, Visualización
 
 ---
 
-## 🎯 Actualmente
+## 🎯 Currently
 
-- 📊 Construyendo portfolio de proyectos de Data Analytics
-- 🔍 Buscando oportunidades donde combinar experiencia operativa + análisis de datos
-- 📚 Profundizando en automatización de procesos con Python
-- 💡 Explorando aplicaciones de ML en procurement y supply chain
+- 📊 Building a Data Analytics project portfolio
+- 🔍 Seeking opportunities to combine operational experience + data analysis
+- 📚 Deepening knowledge in Python process automation
+- 💡 Exploring ML applications in procurement and supply chain
 
 ---
 
 <div align="center">
 
-### 💡 *"Experiencia + Datos = Decisiones Inteligentes"*
+### 💡 *"Experience + Data = Smart Decisions"*
 
-**¿Hablamos?** 👇
+**Let's connect!** 👇
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecta_conmigo-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-ag/)
-[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail)](mailto:cristian.agustin.garcia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin)](TU_LINK_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail)](mailto:TU_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-100000?style=for-the-badge&logo=github)](https://github.com/CristianAgus1982)
 
 </div>
