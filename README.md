@@ -125,8 +125,8 @@ Specialization: Python, SQL, Statistics, Machine Learning, Data Visualization
 
 **Let's connect!** 👇
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin)](TU_LINK_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail)](mailto:TU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cristian-ag/)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail)](mailto:cristian.agustin.garcia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_me-100000?style=for-the-badge&logo=github)](https://github.com/CristianAgus1982)
 
 </div>
